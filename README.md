@@ -27,7 +27,7 @@ Run **asf**
 asf
 ```
 
-UI.html and ArchiSteamFarm-Service.sh should start.
+**UI.html** and **ArchiSteamFarm-Service.sh** should start.
 
 ## Buy me a coffee :)))
 
